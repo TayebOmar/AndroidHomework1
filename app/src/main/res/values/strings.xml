@@ -1,0 +1,11 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string-array name="operators_array">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>^</item>
+    </string-array>
+</resources>
